@@ -1,7 +1,7 @@
 ## frt2:Future ready talent project by Ajay Binekar.
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
 
-## my website link:https://wonderful-meadow-082763410.1.azurestaticapps.net
+## my website link:https://ajay123-15.github.io/frt2/
 
 
 ## Home page 
